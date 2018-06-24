@@ -1,0 +1,19 @@
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\bin\Debug\Fractal Summative.exe.config
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\bin\Debug\Fractal Summative.exe
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\bin\Debug\Fractal Summative.pdb
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal Summative.csprojResolveAssemblyReference.cache
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal_Summative.Form1.resources
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal_Summative.Properties.Resources.resources
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal Summative.csproj.GenerateResource.Cache
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal Summative.csproj.CoreCompileInputs.cache
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal Summative.exe
+C:\Users\nnsun\Desktop\Fractal Summative\Fractal Summative\obj\Debug\Fractal Summative.pdb
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\bin\Debug\Fractal Summative.exe.config
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\obj\Debug\Fractal Summative.exe
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\obj\Debug\Fractal Summative.pdb
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\bin\Debug\Fractal Summative.exe
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\bin\Debug\Fractal Summative.pdb
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\obj\Debug\Fractal Summative.csprojResolveAssemblyReference.cache
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\obj\Debug\Fractal_Summative.Form1.resources
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\obj\Debug\Fractal_Summative.Properties.Resources.resources
+\\2522-CMS-01\2522 Students$\535887\profile\desktop\Fractal Summative v2\Fractal Summative\obj\Debug\Fractal Summative.csproj.GenerateResource.Cache
